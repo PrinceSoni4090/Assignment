@@ -30,7 +30,7 @@ A modern, responsive dashboard application built with Next.js, React, and Clerk 
    ```bash
    npm run dev
    ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser
+5. Open (https://assignment-rose-ten.vercel.app/)) in your browser
 
 ## Project Structure
 
